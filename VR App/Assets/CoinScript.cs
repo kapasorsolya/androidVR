@@ -19,7 +19,7 @@ public class CoinScript : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         other.GetComponent<PlayerScript>().points++;
-        if (other.name == "FPSController")
+        if (other.name == "Player")
         {
             //Add 1 to points;
             other.GetComponent<PlayerScript>().points++;
