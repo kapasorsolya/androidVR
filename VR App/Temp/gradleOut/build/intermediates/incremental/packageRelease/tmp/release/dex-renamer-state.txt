@@ -1,0 +1,4 @@
+#Sun Nov 03 13:30:10 EET 2019
+base.0=G\:\\MESTERI\\IFelev\\VirtualisValosag\\VR App\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
