@@ -10,13 +10,14 @@ public class TileManager : MonoBehaviour
     public Transform playerTransform;
     public GameObject[] tilePrefabs;
     public float tileLength = 13f;
-    public float spawnZ = 1f;
+    public float spawnZ = 0f;
 
     // Start is called before the first frame update
     void Start()
     {
         //SpawnRoad();
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
+
         SpawnRoad();
         SpawnRoad();
         SpawnRoad();
