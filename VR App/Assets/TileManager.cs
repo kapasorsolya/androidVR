@@ -16,11 +16,11 @@ public class TileManager : MonoBehaviour
     void Start()
     {
         //SpawnRoad();
-        playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
+        //cc//playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
 
-        SpawnRoad();
-        SpawnRoad();
-        SpawnRoad();
+        //cc//SpawnRoad();
+        //cc//SpawnRoad();
+        //cc//SpawnRoad();
     }
 
     // Update is called once per frame
@@ -29,13 +29,13 @@ public class TileManager : MonoBehaviour
         
     }
 
-    public void SpawnRoad()
-    {
-      
-        //Instantiate(leftRoad, current.transform.GetChild(0).transform.GetChild(0).position, Quaternion.identity);
-        GameObject go = Instantiate(tilePrefabs[0]) as GameObject;
-        go.transform.SetParent(transform);
-        go.transform.position = Vector3.forward * spawnZ;
-        spawnZ += tileLength;
-    }
+    //cc//    public void SpawnRoad()
+    //cc//    {
+    //cc//      
+    //cc//        //Instantiate(leftRoad, current.transform.GetChild(0).transform.GetChild(0).position, Quaternion.identity);
+    //cc//        GameObject go = Instantiate(tilePrefabs[0]) as GameObject;
+    //cc//        go.transform.SetParent(transform);
+    //cc//        go.transform.position = Vector3.forward * spawnZ;
+    //cc//        spawnZ += tileLength;
+    //cc//    }
 }

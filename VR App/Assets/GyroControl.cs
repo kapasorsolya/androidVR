@@ -11,32 +11,33 @@ public class GyroControl : MonoBehaviour
 
     void Start()
     {
-        cameraContainer = new GameObject("Camera Container");
-        cameraContainer.transform.position = transform.position;
-        transform.SetParent(cameraContainer.transform);
-        gyroEnabled = EnableGyro();  
+        //cc//cameraContainer = new GameObject("Camera Container");
+        //cc//cameraContainer.transform.position = transform.position;
+        //cc//transform.SetParent(cameraContainer.transform);
+        //cc//gyroEnabled = EnableGyro();  
     }
 
     void Update()
     {
         if (gyroEnabled)
         {
-            transform.localRotation = gyro.attitude * rot;
+            //Move camera as device rotates:
+            //cc// transform.localRotation = gyro.attitude * rot;
         }
     }
 
-    private bool EnableGyro()
-    {
-        if(SystemInfo.supportsGyroscope)
-        {
-            gyro = Input.gyro;
-            gyro.enabled = true;
-            
-            cameraContainer.transform.rotation = Quaternion.Euler(90f, 90f, 0f);
-            rot = new Quaternion(0, 0, 1, 0);
-
-            return true;
-        }
-        return false;
-    }
+    //cc//private bool EnableGyro()
+    //cc//{
+    //cc//    if(SystemInfo.supportsGyroscope)
+    //cc//    {
+    //cc//        gyro = Input.gyro;
+    //cc//        gyro.enabled = true;
+    //cc//        
+    //cc//        cameraContainer.transform.rotation = Quaternion.Euler(90f, 90f, 0f);
+    //cc//        rot = new Quaternion(0, 0, 1, 0);
+    //cc//
+    //cc//        return true;
+    //cc//    }
+    //cc//    return false;
+    //cc//}
 }
