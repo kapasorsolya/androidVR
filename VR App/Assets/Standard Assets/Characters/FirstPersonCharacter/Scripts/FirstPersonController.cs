@@ -42,6 +42,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private bool m_Jumping;
         private AudioSource m_AudioSource;
 
+        // Character speed
+        private float speed = 5.0f;
+
         // Use this for initialization
         private void Start()
         {
@@ -61,6 +64,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
         // Update is called once per frame
         private void Update()
         {
+            // Move character forward
+            m_CharacterController.Move((Vector3.forward * speed) * Time.deltaTime);
+
             RotateView();
             // the jump state needs to read here to make sure it is not missed
             if (!m_Jump)

@@ -1,40 +1,75 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Collections.Generic;
 
 public class TileManager : MonoBehaviour
 {
-
-    //    public GameObject leftRoad;
-    //    public GameObject current;
-    public Transform playerTransform;
     public GameObject[] tilePrefabs;
-    public float tileLength = 13f;
-    public float spawnZ = 1f;
 
-    // Start is called before the first frame update
-    void Start()
+    private Transform playerTransform;
+    private float spawnZ = 5.0f;
+    private float tileLength = 12.6f;
+    private float safeZone = 16.0f;
+    private int amnTilesOnScreen = 7;
+    private int lastPrefabIndex = 0;
+
+    private List<GameObject> activeTiles;
+
+    private void Start()
     {
-        //SpawnRoad();
+        activeTiles = new List<GameObject>();
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
-        SpawnRoad();
-        SpawnRoad();
-        SpawnRoad();
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
+        for (int i = 0; i < amnTilesOnScreen; i++)
+        {
+            if (i < 2)
+                SpawnTile(0);
+            else 
+                SpawnTile();
+        }
         
     }
 
-    public void SpawnRoad()
+    private void Update()
     {
-      
-        //Instantiate(leftRoad, current.transform.GetChild(0).transform.GetChild(0).position, Quaternion.identity);
-        GameObject go = Instantiate(tilePrefabs[0]) as GameObject;
+        if (playerTransform.position.z - safeZone > (spawnZ - amnTilesOnScreen * tileLength))
+        {
+            SpawnTile();
+            DeleteTile();
+        }
+    }
+
+    private void SpawnTile(int prefabIndex = -1)
+    {
+        GameObject go;
+        if (prefabIndex == -1)
+            go = Instantiate(tilePrefabs[RandomPrefabIndex()]) as GameObject;
+        else
+            go = Instantiate(tilePrefabs[prefabIndex]) as GameObject;
         go.transform.SetParent(transform);
         go.transform.position = Vector3.forward * spawnZ;
         spawnZ += tileLength;
+        activeTiles.Add(go);
+    }
+
+    private void DeleteTile(int prefabIndex = -1)
+    {
+        Destroy(activeTiles[0]);
+        activeTiles.RemoveAt(0);
+    }
+
+    private int RandomPrefabIndex()
+    {
+        if (tilePrefabs.Length <= 1) return 0;
+
+        int randomIndex = lastPrefabIndex;
+        while (randomIndex == lastPrefabIndex)
+        {
+            randomIndex = Random.Range(0, tilePrefabs.Length);
+        }
+
+        lastPrefabIndex = randomIndex;
+        return randomIndex;
     }
 }
