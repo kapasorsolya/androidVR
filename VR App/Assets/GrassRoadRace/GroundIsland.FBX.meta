@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 guid: a677dd29f5e3e5c47a30eb9dc6574030
 ModelImporter:
+<<<<<<< HEAD
   serializedVersion: 23
   fileIDToRecycleName:
     100000: Grass
@@ -20,6 +21,61 @@ ModelImporter:
     4300000: GroundIsland
     4300002: PalmTree
     4300004: Grass
+=======
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Grass
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: GroundIsland
+  - first:
+      1: 100006
+    second: PalmTree
+  - first:
+      4: 400000
+    second: Grass
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: GroundIsland
+  - first:
+      4: 400006
+    second: PalmTree
+  - first:
+      23: 2300000
+    second: Grass
+  - first:
+      23: 2300002
+    second: GroundIsland
+  - first:
+      23: 2300004
+    second: PalmTree
+  - first:
+      33: 3300000
+    second: Grass
+  - first:
+      33: 3300002
+    second: GroundIsland
+  - first:
+      33: 3300004
+    second: PalmTree
+  - first:
+      43: 4300000
+    second: GroundIsland
+  - first:
+      43: 4300002
+    second: PalmTree
+  - first:
+      43: 4300004
+    second: Grass
+>>>>>>> dd7a90578e451fc92d17d36c28a32a343eb173c6
   externalObjects:
   - first:
       type: UnityEngine:Material

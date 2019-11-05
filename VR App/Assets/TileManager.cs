@@ -6,6 +6,11 @@ using System.Collections.Generic;
 public class TileManager : MonoBehaviour
 {
     public GameObject[] tilePrefabs;
+<<<<<<< HEAD
+=======
+    public float tileLength = 13f;
+    public float spawnZ = 0f;
+>>>>>>> dd7a90578e451fc92d17d36c28a32a343eb173c6
 
     private Transform playerTransform;
     private float spawnZ = 5.0f;
@@ -18,6 +23,7 @@ public class TileManager : MonoBehaviour
 
     private void Start()
     {
+<<<<<<< HEAD
         activeTiles = new List<GameObject>();
         playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
 
@@ -29,6 +35,14 @@ public class TileManager : MonoBehaviour
                 SpawnTile();
         }
         
+=======
+        //SpawnRoad();
+        //cc//playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
+
+        //cc//SpawnRoad();
+        //cc//SpawnRoad();
+        //cc//SpawnRoad();
+>>>>>>> dd7a90578e451fc92d17d36c28a32a343eb173c6
     }
 
     private void Update()
@@ -40,6 +54,7 @@ public class TileManager : MonoBehaviour
         }
     }
 
+<<<<<<< HEAD
     private void SpawnTile(int prefabIndex = -1)
     {
         GameObject go;
@@ -72,4 +87,15 @@ public class TileManager : MonoBehaviour
         lastPrefabIndex = randomIndex;
         return randomIndex;
     }
+=======
+    //cc//    public void SpawnRoad()
+    //cc//    {
+    //cc//      
+    //cc//        //Instantiate(leftRoad, current.transform.GetChild(0).transform.GetChild(0).position, Quaternion.identity);
+    //cc//        GameObject go = Instantiate(tilePrefabs[0]) as GameObject;
+    //cc//        go.transform.SetParent(transform);
+    //cc//        go.transform.position = Vector3.forward * spawnZ;
+    //cc//        spawnZ += tileLength;
+    //cc//    }
+>>>>>>> dd7a90578e451fc92d17d36c28a32a343eb173c6
 }

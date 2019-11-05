@@ -17,6 +17,46 @@ ModelImporter:
     4300002: Fence
   externalObjects:
   - first:
+<<<<<<< HEAD
+=======
+      1: 100000
+    second: Bridge
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Fence
+  - first:
+      4: 400000
+    second: Bridge
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Fence
+  - first:
+      23: 2300000
+    second: Bridge
+  - first:
+      23: 2300002
+    second: Fence
+  - first:
+      33: 3300000
+    second: Bridge
+  - first:
+      33: 3300002
+    second: Fence
+  - first:
+      43: 4300000
+    second: Bridge
+  - first:
+      43: 4300002
+    second: Fence
+  externalObjects:
+  - first:
+>>>>>>> dd7a90578e451fc92d17d36c28a32a343eb173c6
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tex_Fence

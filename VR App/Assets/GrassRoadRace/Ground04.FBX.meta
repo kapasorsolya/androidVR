@@ -22,6 +22,48 @@ ModelImporter:
       name: Tex_Fence
     second: {fileID: 2100000, guid: 08029e47c457d4b41b4c4caf4a9d9aaf, type: 2}
   - first:
+<<<<<<< HEAD
+=======
+      1: 100002
+    second: Ground
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Fence
+  - first:
+      4: 400002
+    second: Ground
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      23: 2300000
+    second: Fence
+  - first:
+      23: 2300002
+    second: Ground
+  - first:
+      33: 3300000
+    second: Fence
+  - first:
+      33: 3300002
+    second: Ground
+  - first:
+      43: 4300000
+    second: Fence
+  - first:
+      43: 4300002
+    second: Ground
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Fence
+    second: {fileID: 2100000, guid: 08029e47c457d4b41b4c4caf4a9d9aaf, type: 2}
+  - first:
+>>>>>>> dd7a90578e451fc92d17d36c28a32a343eb173c6
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tex_Ground

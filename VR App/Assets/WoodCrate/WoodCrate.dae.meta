@@ -12,6 +12,31 @@ ModelImporter:
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
+<<<<<<< HEAD
+=======
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Empty_Mesh
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+>>>>>>> dd7a90578e451fc92d17d36c28a32a343eb173c6
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: WoodCrate
