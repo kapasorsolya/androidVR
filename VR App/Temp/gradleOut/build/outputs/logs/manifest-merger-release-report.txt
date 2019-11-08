@@ -1,266 +1,266 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-MERGED from [:gvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\468944dd7380dbd641f09503a6d5d54c\AndroidManifest.xml:2:1-9:12
-MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:2:1-56:12
-MERGED from [:unitygvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\684a5c9a0ead851c92e0737f1247e951\AndroidManifest.xml:2:1-11:12
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [:gvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\56e513be0e0793c9650cf46d802ce40d\AndroidManifest.xml:2:1-9:12
+MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:2:1-56:12
+MERGED from [:unitygvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\59e1f5c5a48e8ac2083912a1120a9a50\AndroidManifest.xml:2:1-11:12
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-106
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-106
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:107-153
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:107-153
 	android:versionCode
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:154-194
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:2:154-194
 supports-screens
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
 	android:largeScreens
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
 	android:smallScreens
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
 	android:normalScreens
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
 	android:xlargeScreens
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
 	android:anyDensity
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
 application
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-18:17
-MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:18:5-54:19
-MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:18:5-54:19
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-18:17
+MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:18:5-54:19
+MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:18:5-54:19
 	android:label
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:48-80
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:48-80
 	android:icon
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-47
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-47
 	android:banner
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:103-140
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:103-140
 	android:theme
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:141-179
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:141-179
 	android:isGame
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:81-102
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:4:81-102
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-13:16
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-13:16
 	android:screenOrientation
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
 	android:label
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
 	android:launchMode
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
 	android:hardwareAccelerated
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
 	android:configChanges
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER+category:name:com.google.intent.category.CARDBOARD
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-11:23
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-11:23
 action#android.intent.action.MAIN
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
 category#android.intent.category.LAUNCHER
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
 category#android.intent.category.LEANBACK_LAUNCHER
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
 category#com.google.intent.category.CARDBOARD
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:10:9-73
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:10:9-73
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:10:19-70
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:10:19-70
 meta-data#unityplayer.UnityActivity
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:12:7-82
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:12:7-82
 	android:value
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:12:59-79
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:12:59-79
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:12:18-58
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:12:18-58
 meta-data#unityplayer.SkipPermissionsDialog
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-88
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-88
 	android:value
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:14:65-85
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:14:65-85
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-64
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-64
 meta-data#unity.build-id
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-101
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-101
 	android:value
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:15:46-98
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:15:46-98
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-45
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-45
 meta-data#unity.splash-mode
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-69
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-69
 	android:value
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:16:49-66
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:16:49-66
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-48
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-48
 meta-data#unity.splash-enable
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-75
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-75
 	android:value
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:17:51-72
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:17:51-72
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-50
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-50
 uses-feature#0x00020000
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-52
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-52
 	android:glEsVersion
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-49
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-49
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-78
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-78
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-75
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-75
 uses-permission#android.permission.INTERNET
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-65
-MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:15:5-67
-MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:15:5-67
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-65
+MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:15:5-67
+MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-62
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-62
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-97
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-97
 	android:required
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:22:70-94
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:22:70-94
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-69
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-69
 uses-feature#android.hardware.touchscreen
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-88
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-88
 	android:required
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:23:61-85
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:23:61-85
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-60
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-99
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-99
 	android:required
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:24:72-96
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:24:72-96
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-71
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:25:3-108
+ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:25:3-108
 	android:required
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:25:81-105
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:25:81-105
 	android:name
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:25:17-80
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml:25:17-80
 uses-sdk
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-MERGED from [:gvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\468944dd7380dbd641f09503a6d5d54c\AndroidManifest.xml:5:5-7:41
-MERGED from [:gvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\468944dd7380dbd641f09503a6d5d54c\AndroidManifest.xml:5:5-7:41
-MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:7:5-44
-MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:7:5-44
-MERGED from [:unitygvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\684a5c9a0ead851c92e0737f1247e951\AndroidManifest.xml:7:5-9:41
-MERGED from [:unitygvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\684a5c9a0ead851c92e0737f1247e951\AndroidManifest.xml:7:5-9:41
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:gvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\56e513be0e0793c9650cf46d802ce40d\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\56e513be0e0793c9650cf46d802ce40d\AndroidManifest.xml:5:5-7:41
+MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:7:5-44
+MERGED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:7:5-44
+MERGED from [:unitygvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\59e1f5c5a48e8ac2083912a1120a9a50\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\59e1f5c5a48e8ac2083912a1120a9a50\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-		ADDED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
-		INJECTED from G:\MESTERI\IFelev\VirtualisValosag\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from G:\androidVR\VR App\Temp\gradleOut\src\main\AndroidManifest.xml
 uses-permission#android.permission.GET_TASKS
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:9:5-68
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:9:5-68
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:9:22-65
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:9:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:10:5-76
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:10:5-76
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:10:22-73
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:10:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:11:5-79
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:11:22-76
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:11:22-76
 uses-permission#com.xiaomi.sdk.permission.PAYMENT
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:12:5-73
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:12:22-70
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:12:22-70
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:13:5-75
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:13:5-75
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:13:22-72
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:13:22-72
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:14:5-71
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:14:5-71
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:14:22-68
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:14:22-68
 uses-permission#com.xiaomi.permission.AUTH_SERVICE
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:16:5-74
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:16:5-74
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:16:22-71
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:16:22-71
 activity#com.xiaomi.gamecenter.sdk.ui.MiActivity
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:21:9-26:20
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:21:9-26:20
 	android:screenOrientation
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:24:13-47
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:24:13-47
 	android:configChanges
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:23:13-59
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:23:13-59
 	android:theme
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:25:13-72
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:25:13-72
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:22:13-67
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:22:13-67
 activity#com.xiaomi.gamecenter.sdk.ui.PayListActivity
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:27:9-31:75
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:27:9-31:75
 	android:exported
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:30:13-36
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:30:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:29:13-59
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:29:13-59
 	android:theme
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:31:13-72
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:31:13-72
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:28:13-72
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:28:13-72
 activity#com.xiaomi.gamecenter.alipay.HyAlipayActivity
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:32:9-36:75
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:32:9-36:75
 	android:exported
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:35:13-36
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:35:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:34:13-59
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:34:13-59
 	android:theme
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:36:13-72
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:36:13-72
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:33:13-73
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:33:13-73
 activity#com.xiaomi.account.openauth.AuthorizeActivity
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:37:9-41:75
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:37:9-41:75
 	android:exported
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:40:13-36
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:40:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:39:13-59
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:39:13-59
 	android:theme
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:41:13-72
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:38:13-73
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:38:13-73
 activity#com.xiaomi.gamecenter.wxwap.HyWxWappayActivity
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:42:9-46:75
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:42:9-46:75
 	android:exported
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:45:13-36
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:45:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:44:13-59
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:44:13-59
 	android:theme
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:46:13-72
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:46:13-72
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:43:13-74
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:43:13-74
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:47:9-52:70
+ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:47:9-52:70
 	android:screenOrientation
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:51:13-47
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:51:13-47
 	android:windowSoftInputMode
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:52:13-67
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:52:13-67
 	android:exported
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:50:13-37
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:50:13-37
 	android:configChanges
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:49:13-85
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:49:13-85
 	android:name
-		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\855c65c7d41563aaab622ac77888c7f3\AndroidManifest.xml:48:13-60
+		ADDED from [:UnityChannel:] C:\Users\Orsolya\.gradle\caches\transforms-2\files-2.1\f2fa8bdf12312a2c0234c7c08025d1da\AndroidManifest.xml:48:13-60

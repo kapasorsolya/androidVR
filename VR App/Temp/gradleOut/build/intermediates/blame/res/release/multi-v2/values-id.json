@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\MESTERI\\IFelev\\VirtualisValosag\\VR App\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "G:\\androidVR\\VR App\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Orsolya\\.gradle\\caches\\transforms-2\\files-2.1\\468944dd7380dbd641f09503a6d5d54c\\res\\values-id\\values.xml",
+                    "source": "C:\\Users\\Orsolya\\.gradle\\caches\\transforms-2\\files-2.1\\56e513be0e0793c9650cf46d802ce40d\\res\\values-id\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
